@@ -1,0 +1,3 @@
+rootProject.name = 'coinche'
+
+include ':app'
